@@ -1,3 +1,6 @@
+![Screenshot 2024-06-06 204441](https://github.com/PierinaBrito/EasyBank/assets/77765628/390847d5-ce8a-4983-be69-a23edd936e80)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
